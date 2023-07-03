@@ -1,3 +1,5 @@
 # lab
 
-## history
+## study history
+### 0703
+github 실습
