@@ -1,7 +1,7 @@
 # lab
 
 ## study history
-### 0703
+### 0704
 github 실습
 
 실습
