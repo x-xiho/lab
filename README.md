@@ -9,3 +9,5 @@ github 실습
 - PR 실습
 - issue 생성 연습
 - pull request template 추가
+
+### 0710
