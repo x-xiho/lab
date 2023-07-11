@@ -27,3 +27,12 @@ github 실습
 4. Github Desktop에서 해당 변경사항을 요약한 제목과 설명을 작성한 후에 commit to main을 눌러서 commit을 해준다.
 5. commit을 해준 후에 Github Desktop에서 Push Origin 버튼을 눌러서 변경 사항을 Github에 보내준다.
 6. Github에 나의 main에서 해당 변경 사항이 push가 되었는지 확인한다.
+
+### 0711
+
+#### Github에서 pr 보내는 방법
+1. 코드를 변경 후 커밋을 확인한다.
+2. create pull requeset 버튼을 누른다.
+3. 템플릿에 맞게 pr 작성 후 오너에게 리뷰를 부탁한다.
+
+
